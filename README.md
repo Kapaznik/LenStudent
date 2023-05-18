@@ -3,6 +3,11 @@
 </p>
 
 
+
+https://github.com/Kapaznik/LenStudent/assets/87901270/293b63dd-a0fc-405f-b3cf-59142536e492
+
+
+
 LenStudent is an application designed to enhance the learning experience by providing students with a clear and distraction-free way to view the information displayed on the board during lectures.
 By utilizing image recognition technology and capturing images of the board, LenStudent eliminates the need for students to take their own pictures,
 allowing them to fully engage in the lecture while saving valuable time and keeping the privacy of the lecturers
